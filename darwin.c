@@ -2,6 +2,7 @@
 #include<conio.h>
 int main() {
     int a ,b;
+    l
     printf("Enter the two numbers :");
     scanf("%d%d",&a,&b);
     int result;
