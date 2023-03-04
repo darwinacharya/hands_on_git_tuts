@@ -13,11 +13,11 @@ int main() {
         switch(choice) {
             case'+':
                 result = a + b;
-                printf("Result: %d\n", result);
+                printf("Result is = %d\n", result);
                 break;
             case'-':
                 result = a - b;
-                printf("Result: %d\n", result);
+                printf("Result is = %d\n", result);
                 break;
             default:
                 printf("Invalid choice !\n");
